@@ -1,8 +1,6 @@
 # truth-or-dare
 Company Fun Day
 
-Based on this setup: https://github.com/Monkeychip/truth-or-dare
-
 1. To run database, you'll need to have Docker Desktop setup.  Run docker `docker-compose up` in the main directory.
 That will spin up the instance of the MongoDB container.
 
